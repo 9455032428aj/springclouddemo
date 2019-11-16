@@ -12,8 +12,6 @@ import org.springframework.web.bind.annotation.RestController;
 import java.util.HashMap;
 import java.util.Map;
 
-import static org.bouncycastle.asn1.x500.style.RFC4519Style.uid;
-
 @SpringBootApplication
 @EnableEurekaClient
 @RestController
